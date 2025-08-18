@@ -1,0 +1,1 @@
+<img src="{{ asset('images/emailsendy.png') }}" alt="Logo" class="h-12 w-auto">
