@@ -18,5 +18,8 @@
     
     {{ $javascript ?? '' }}
 
+    <!-- Pixel Code - https://notify.afterlaunch.app/ -->
+<script defer src="https://notify.afterlaunch.app/pixel/iok3gZdF7u7zYYrO"></script>
+<!-- END Pixel Code -->
 </body>
 </html>
