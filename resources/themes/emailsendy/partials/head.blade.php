@@ -58,3 +58,6 @@
 <!-- Pixel Code - https://notify.afterlaunch.app/ -->
 <script defer src="https://notify.afterlaunch.app/pixel/iok3gZdF7u7zYYrO"></script>
 <!-- END Pixel Code -->
+<!-- Pixel Code - https://fomo.afterlaunch.app/ -->
+<script defer src="https://fomo.afterlaunch.app/pixel/SgJuEz5Dc1x8g9tJmIIfax2FxW0JNaX0"></script>
+<!-- END Pixel Code -->
